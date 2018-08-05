@@ -16,7 +16,8 @@ int main(void)
    char *s[] = 
    {
       "Git tutorials",
-      "Tutorials Point"
+      "Tutorials Point",
+	  " abc defg "
    };
 
    for (i = 0; i < 2; ++i)
