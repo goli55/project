@@ -24,5 +24,7 @@ int main(void)
       
    printf("string lenght of %s = %d\n", s[i], my_strlen(s[i]));
 
-   return -1;
+   return 0;
 }
+
+int add(int x,int y){return x+y;}
